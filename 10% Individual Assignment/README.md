@@ -51,4 +51,4 @@ Source code
 Video must upload to YouTube and hyperlink on GitHub (Article)
 
 ### Rubric
-<a href="https://github.com/addff/2603-ITT440/blob/main/10%25%20Individual%20Assignment/Rubric.pdf"> PDF: Click on Download the Raw</a>
+<a href="https://github.com/addff/2603-ITT440/blob/main/10%25%20Individual%20Assignment/Rubric.pdf"> PDF: Click on Download Raw File</a>
