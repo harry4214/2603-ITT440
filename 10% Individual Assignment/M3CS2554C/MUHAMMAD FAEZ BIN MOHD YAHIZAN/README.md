@@ -96,7 +96,7 @@ When the analyzer completes its scan, it generates a comprehensive Forensic Brea
 | **Total Critical Threats** | **1,110,942**  |
 
 
-![15mil](real15milss.png)
+![15mil](https://raw.githubusercontent.com/FaezBun/kelasirlog/refs/heads/main/real100k.png)
 
 ### Performance Benchmark
 
