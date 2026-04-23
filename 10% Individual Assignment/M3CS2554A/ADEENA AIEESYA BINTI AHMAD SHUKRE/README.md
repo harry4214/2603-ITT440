@@ -95,3 +95,19 @@ In conclusion, this project successfully developed an airport baggage handling a
 On the other hand, multiprocessing achieved the best performance among all techniques by utilizing multiple CPU cores, enabling true parallel execution and significantly reducing processing time for large datasets. This shows that parallel processing is the most suitable approach for handling large-scale and computationally intensive tasks such as airport baggage handling systems. Overall, the project highlights the importance of selecting the appropriate processing method based on the nature of the workload and demonstrates how concurrency and parallelism can improve efficiency and scalability in practical applications.
 
 
+
+------------------------------------------------------------------------------------------------
+
+# USER MANUAL
+
+## SYSTEM REQUIREMENTS
+To run the Airport Baggage Handling and Sorting Simulator, the system requirements needed are : 
+- Operating System : Windows, Linux (Kali), or macOS
+- Python Version : Python 3.8 or above
+- Processor : Multicore CPU
+- RAM : Minimum 4GB, but the bigger the better as the dataset that will be handled are massive.
+- Storage : At least 1GB free space
+- Terminal : Required to run the program
+
+
+## 
