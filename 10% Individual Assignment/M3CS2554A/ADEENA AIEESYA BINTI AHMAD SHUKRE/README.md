@@ -17,6 +17,7 @@ Traditionally, many systems rely on sequential programming, where tasks are exec
 To overcome this issue, concurrency and parallelism are introduced in modern computing. Concurrent programming allows several tasks to be managed at once, improving system responsiveness, while parallel programming allows tasks to be executed simultaneously across various CPU cores, improving performance for computationally demanding workloads.
 
 
+
 ## PROBLEM STATEMENT
 In the context of airport baggage handling, where thousands or even millions of records may need to be processed, selecting the most efficient processing method becomes critical.
 
@@ -25,5 +26,10 @@ While the sequential processing provides a simple approach, it may not be suitab
 Thus, this project focuses on evaluating and comparing three processing techniques, which are sequential, concurrent, and parallel processing by simulating a large scale airport baggage handling system. The aim is to identify which approach provides better performance and scalability when handling large datasets.
 
 
+
 ## OBJECTIVES
-The main objective of this project is to design
+The main objective of this project is to design and develop an airport baggage handling and sorting simulator using Python to model the processing of large scale baggage data. The system aims to simulate real world scenarios by automatically generating a large number of baggage records and processing them using different execution techniques.
+
+Other than that, this project aims to implement and evaluate three different processing approaches, which are sequential programming as a start, concurrent processing using threding to handle multiple tasks simultaneously, and parallel processing using multiprocessing to make use of various CPU cores.
+
+Also, the project 
