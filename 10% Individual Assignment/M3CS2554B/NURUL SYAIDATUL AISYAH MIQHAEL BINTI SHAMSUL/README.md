@@ -1,4 +1,3 @@
-# NURUL SYAIDATUL AISYAH MIQHAEL BINTI SHAMSUL
 # 🎬 Movie Recommendation Analyzer: A High-Performance Implementation Using Python
 
 ---
