@@ -71,11 +71,20 @@ python main.py
 ---
 
 ## 8. Sample Input
-<img width="753" height="113" alt="image" src="https://github.com/user-attachments/assets/48cb7713-9ba2-4fa4-bc6a-2384fc870550" />
+<img width="420" height="94" alt="image" src="https://github.com/user-attachments/assets/b106d9bc-c1e4-4c53-9082-05f284427f05" />
 
+---
 
 ## 9. Sample Output
-<img width="686" height="1057" alt="image" src="https://github.com/user-attachments/assets/dc0e1d92-9452-4646-bf46-0d4e1f5cc2ca" />
+<img width="672" height="1058" alt="image" src="https://github.com/user-attachments/assets/d3876051-5ab2-4df0-ab8a-85a8911eba31" />
+
+
+
+
+#### Bar Graph to Differentiate Three Method Performance
+<img width="797" height="601" alt="image" src="https://github.com/user-attachments/assets/dbf98b9d-4782-40c5-963f-01e9e26f41b0" />
+
+
 
 
 
