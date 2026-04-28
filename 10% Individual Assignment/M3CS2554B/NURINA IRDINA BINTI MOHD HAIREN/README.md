@@ -36,45 +36,58 @@ Python’s execution is typically single-threaded due to the Global Interpreter 
 
 -Hardware: Multi-core processor (recommended to see the benefits of Parallelism).
 
+-Software: Visual Studio Code with the Python Extension installed.
+
 ## ⋆. 𐙚 ˚ Installation Steps
 
-1. Clone the Repository:
+1. Install Python: Download and install Python from the official website if you haven't already.
 
-    git clone https://github.com/your-username/prime-finder.git
-cd prime-finder
+2. Install VS Code Extension: Open VS Code, go to the Extensions view (Ctrl+Shift+X), and install the "Python" extension by Microsoft.
 
-2. No External Dependencies: This program uses Python’s standard library (math, threading, multiprocessing). No pip install is required.
+3. Create File: Create a new file in VS Code named prime_finder.py.
 
+4. Paste Code: Copy the provided source code and paste it into this new file.
    
 ## ⋆. 𐙚 ˚ How to Run
 
-1. Open your terminal or command prompt.
+1. Open Terminal: In VS Code, open the integrated terminal by pressing Ctrl+`  (backtick).
 
-2. Navigate to the project folder.
-
-3. Run the script:
+2. Execute Script: Type the following command and press Enter:
 
 python prime_finder.py
 
-4. Follow the on-screen prompts to enter the start and end range.
+3. Input Data: Enter the start and end of the range when prompted by the terminal (e.g., 1 to 100,000).
+
+4. View Analysis: The program will execute all three methods sequentially and display a terminal-based bar chart comparing their speeds.
+
+5. Check Output: A file named primes_output.txt will be generated in your VS Code explorer sidebar containing the full list of discovered primes.
 
  ## ⋆. 𐙚 ˚ Sample Input/Output
 
  Input:
 
- <img width="635" height="76" alt="image" src="https://github.com/user-attachments/assets/8a97a052-bac4-4c53-92e4-80a538baf8c1" />
+<img width="770" height="150" alt="Screenshot 2026-04-29 003727" src="https://github.com/user-attachments/assets/5ef099bf-33e6-416f-a984-cd8b64bc2f7c" />
 
  Output:
+ 
+<img width="1108" height="606" alt="Screenshot 2026-04-29 003740" src="https://github.com/user-attachments/assets/ae09036b-c577-4f04-8e51-627b632a6a2d" />
 
- <img width="1155" height="314" alt="image" src="https://github.com/user-attachments/assets/55799c7c-296f-4bd0-8693-e4db0168ba61" />
+primes_output.txt:
+
+<img width="1243" height="912" alt="Screenshot 2026-04-29 003804" src="https://github.com/user-attachments/assets/7dc51777-fbfd-4c20-a43b-3852c78d6804" />
+
 
 ## ⋆. 𐙚 ˚ Source code
 
-<img width="791" height="735" alt="Screenshot 2026-04-22 005502" src="https://github.com/user-attachments/assets/12083226-de4c-4480-b394-7791d4452e91" />\
+<img width="989" height="902" alt="Screenshot 2026-04-29 004240" src="https://github.com/user-attachments/assets/fc93cb5b-7148-44a7-8ec2-3346b0feac8e" />
 
-<img width="804" height="385" alt="Screenshot 2026-04-22 005527" src="https://github.com/user-attachments/assets/78f21162-6a24-41e8-9702-071ec18432ba" />\
+/
+<img width="983" height="909" alt="Screenshot 2026-04-29 004305" src="https://github.com/user-attachments/assets/24c2421c-f6d3-49a1-a2ae-643a593e24d0" />
 
-<img width="802" height="541" alt="Screenshot 2026-04-22 005546" src="https://github.com/user-attachments/assets/a02b3e5e-8470-4f63-a4c3-4e7194a08f7c" />
+/
+<img width="978" height="302" alt="image" src="https://github.com/user-attachments/assets/42b3c8fb-ae8d-4c84-a2ca-85cbdbd7f813" />
+
+
 
 ## ⋆. 𐙚 ˚ Conclusion
 
