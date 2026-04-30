@@ -8,7 +8,7 @@
 
 **COURSE CODE:** ITT440 Network Programming
 
-**YOUTUBE LINK:** 
+**YOUTUBE LINK:** https://youtu.be/2aUdKLryLZY?si=KEPopQcuB6f2NX0J
 
 -------------------------------------------------------------------------------------------
 
