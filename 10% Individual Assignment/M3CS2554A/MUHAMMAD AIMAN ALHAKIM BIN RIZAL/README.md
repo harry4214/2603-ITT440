@@ -257,7 +257,7 @@ Approach          Time      Speedup  Bar
 
 ## Demonstration Video
 
-> 📺 [Watch on YouTube](#) *(replace with your YouTube link)*
+> 📺 [[Watch on YouTube](https://youtu.be/imUT6LoecW0?si=ZLYbgDljJ15PBDII)](#) *(replace with your YouTube link)*
 
 ---
 
