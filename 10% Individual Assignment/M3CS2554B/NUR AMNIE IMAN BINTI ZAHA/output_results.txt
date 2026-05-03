@@ -1,0 +1,10 @@
+PARALLEL TEXT ANALYZER RESULTS
+
+Words: 52000000
+Characters: 331999999
+Vowels: 128000000
+
+Performance:
+Multiprocessing: 7.7103s
+Threading: 29.1754s
+Sequential: 30.6324s
