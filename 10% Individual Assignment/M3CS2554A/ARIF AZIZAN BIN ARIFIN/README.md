@@ -241,7 +241,7 @@ Simulation Run
 ![Simulation Run](Screenshots/simulation_run.png)
 
 Performance Report
-![Performance Report](Screenshots/performance_run.png)
+![Performance Report](Screenshots/performance_report.png)
 
 ## Source Code
 
