@@ -37,3 +37,7 @@ After collecting all the data needed from a certain amount of users, I have ackn
 
 ## Summary
 The experimental results validate that for data-intensive streaming analytics, Parallel Programming via Multiprocessing is the only viable method for maintaining real-time performance. By distributing the computational load of 1 million records across the hardware's full architecture, we transformed a slow, single-threaded task into a high-performance recommendation engine.
+
+## Simulation Demonstration
+
+https://youtu.be/oPJHC9jZDP4
