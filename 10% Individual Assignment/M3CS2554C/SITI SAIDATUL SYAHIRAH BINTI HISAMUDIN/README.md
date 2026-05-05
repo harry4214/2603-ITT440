@@ -14,6 +14,8 @@
 
 **👥 GROUP : M3CS2554C**
 
+**GITHUB LINK : [ITT440 - GITHUB](https://github.com/Saidatul123/Smart_Bil_Utility)**
+
 **YOUTUBE LINK : [ITT440 - INDIVIDUAL ASSIGNMENT](https://youtu.be/ibz1cFCJ8Lo)**
 
 ---
@@ -132,4 +134,3 @@ The core of this system is the **Multiprocessing Pool**, which utilizes the full
 
 
 * [**smart_utility_bil.py**](smart_utility_bil.py)
-
