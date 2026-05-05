@@ -32,6 +32,32 @@ Streaming platforms like Netflix manage millions of watch events daily. Calculat
         results = list(executor.map(worker_wrapper, args))
     return time.time() - start '''
 
+## Expected Output
+
+<img width="462" height="386" alt="{B936C6A8-7EE9-4E0B-B5A5-A2040888A642}" src="https://github.com/user-attachments/assets/37448169-a4b5-4913-8ec1-7e055837cb0b" />
+
+## Result (Performance Based)
+
+| Method          | Time (s) | Speedup |
+| --------------- | -------- | ------- |
+| Sequential      | 16.07    | 1.00x   |
+| Threading       | 16.75    | 0.96x   |
+| Multiprocessing | 38.16    | 0.42x   |
+
+## Bar Chart
+
+Method               Time (s)       Bar
+
+Sequential        16.07       ████████
+
+Threading         16.75       █████████
+
+Multiprocessing   38.16       ████████████████████
+
+Sequential execution shows stable but slow performance
+Threading provides no improvement due to the Global Interpreter Lock
+Multiprocessing is slower here due to overhead, but remains the most scalable approach when optimized
+
 ## Analysis
 After collecting all the data needed from a certain amount of users, I have acknowledged that when using a sequential performance, the execution time is linear as every user added, the time increases by a fixed amount, therefore the speedup factor is 1.00x with 16.07 seconds time in real time. Whereas, when the system use the threading method, the result shows a slight slowdown compared to sequential with 1.06x speedup factor, taking 16.75 seconds in total to sort the data. Lastly,with the highest efficiency, the Parallel Multiprocessing bringing up a speedup factor close to the number of available CPU cores of 0.42x and time taken 38.16
 
