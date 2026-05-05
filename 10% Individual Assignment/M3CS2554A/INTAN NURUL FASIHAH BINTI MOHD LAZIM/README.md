@@ -315,9 +315,7 @@ This program demonstrates how:
 
 - Sequential processing works step-by-step
 - Threading improves performance using concurrency
-- Multiprocessing achieves the best performance using parallel execution
-
-The results also confirm the probability distribution of dice combinations, where 7 is the most frequent outcome.
+- Multiprocessing achieves the best performance using parallel execution.
   
 
   
