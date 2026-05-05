@@ -1,9 +1,12 @@
-# Monte Carlo Pi Simulation: A Real-Time Comparison of Sequential, Concurrent, and Parallel Execution Models”
+# Monte Carlo Pi Simulation: A Real-Time Comparison of Sequential, Concurrent, and Parallel Execution Models
 
-## **Name:** Muhammad Danish Irfan Bin Zaidi
-## **Subject:** ITT440
-## **Group:** CS2554B
-## **Date:** May 2026
+|  Field     | Details                                                     |
+| ---------- | --------------------------------------------------------------- |
+|Name    | Muhammad Danish Irfan Bin Zaidi|
+|Student ID| 2024421826|
+|Subject | ITT440 - Network Programming   |
+|Group  | CS2554B|
+|Date    | May 2026| 
 ---
 
 ## 📌 Project Overview
@@ -120,7 +123,7 @@ class PiGui:
         self.root.title("Monte Carlo Pi Architectures")
         self.root.geometry("850x600")
         
-        self.total_samples = _10_000_000 # Adjust input to see the difference better
+        self.total_samples = 100_000_000 # Adjust input to see the difference better
         self.cores = multiprocessing.cpu_count()
         self.queue = multiprocessing.Manager().Queue()
         self.results = {}
@@ -254,7 +257,7 @@ if __name__ == "__main__":
 
 1. Launch Visual Studio Code
 2. Create new file 
-3. Copy the source code from this post [here](#-source-code) and paste it on the new file
+3. Copy the source code from this post and paste it on the new python file
 4. Run the program
 5. Click **"Start Comparison"**
 6. Observe:
@@ -264,7 +267,10 @@ if __name__ == "__main__":
 7. Results will be displayed in the output panel
 
 ---
+## 📊 Sample Input
+<img width="875" height="77" alt="image" src="https://github.com/user-attachments/assets/d1da4e37-96fb-4a43-804f-b89e76abedde" />
 
+* 100 milion input is used in this project to see the difference better between each method
 ## 📊 Sample Output
 <img width="1050" height="776" alt="Screenshot 2026-05-01 150849" src="https://github.com/user-attachments/assets/6e9359b9-a36f-4a5a-b026-0e43c5492961" />
 
@@ -294,10 +300,10 @@ Parallel programming significantly reduces execution time by distributing tasks 
 
 ## 🔗 Video Demonstration
 
-Upload your demo video to YouTube and paste the link here:
+* Video demonstration of how to run the program 
 
 ```
-https://youtube.com/your-video-link
+https://youtu.be/D1FS-ZHGFXc
 ```
 
 ---
